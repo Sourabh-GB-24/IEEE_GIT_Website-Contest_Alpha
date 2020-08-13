@@ -203,7 +203,7 @@ label,toggle{
 		margin-left: 0;
 	}
 	.footer .main{
-		display: block;
+		display: inline-block;
 	}
 }
 /* history */
