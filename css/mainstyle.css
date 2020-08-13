@@ -67,7 +67,12 @@ p{
 	margin-bottom:0.5%;
 	padding-left : 27%;
 }
+.events ul li a{
+	color: #000000;
+	text-decoration: none;
+}
 .events ul li{
+	list-style: none;
 	padding: 0.5%;
 	color: #000000;
 	font-variant: small-caps;
@@ -203,6 +208,9 @@ label,toggle{
 	}
 	.footer .main{
 		display: inline-block;
+	}
+	.left,.center,.right h2{
+		width: 20%;
 	}
 }
 /* history */
