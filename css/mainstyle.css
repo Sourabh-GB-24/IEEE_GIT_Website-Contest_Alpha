@@ -170,7 +170,7 @@ label,toggle{
 }
 
 
-@media only screen {
+@media only screen and (max-width: 500px){
 	header h1,h2{
 
 	}
