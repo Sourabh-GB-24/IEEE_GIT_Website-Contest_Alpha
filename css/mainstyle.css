@@ -6,7 +6,7 @@ body{
 	margin: 1%;
 	}
 header{
-	background: #808080 url("C:/Users/yuvra/Desktop/web designing comp/images/ieeebg.png") no-repeat right;
+	background: #808080 url("images/ieeebg.png") no-repeat right;
 	background-size: 25%;
 	padding: 1% 1% 1% 1%;
 	height: 16%;
@@ -55,7 +55,7 @@ p{
 	font-family: Serif;
 }
 .events{
-	background: #808080 url("C:/Users/yuvra/Desktop/web designing comp/images/event.jpg") no-repeat center;
+	background: #808080 url("images/event.jpg") no-repeat center;
 	background-size: 100%;
 	padding: 1% 0 7% 0;
 }
@@ -151,7 +151,7 @@ label,toggle{
 	width: 50px;
 }
 .ach{
-	background: url("C:/Users/yuvra/Desktop/web designing comp/images/ach.jpeg") no-repeat center;
+	background: url("images/ach.jpeg") no-repeat center;
 	background-size: 100% 100%;
 	background: cover;
 	padding: 1% 0 2% 0;
