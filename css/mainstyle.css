@@ -199,11 +199,12 @@ label,toggle{
 
 	}
 	.ach li{
+		font-size: 50%;
 		margin-left: 0;
 	}
-}
 .footer .main{
-	display: inline-block;
+	display: block;
+}
 }
 /* history */
 .hist{
