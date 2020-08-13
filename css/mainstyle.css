@@ -204,7 +204,7 @@ label,toggle{
 	}
 }
 .footer .main{
-	display: block;
+	display: inline-block;
 }
 /* history */
 .hist{
