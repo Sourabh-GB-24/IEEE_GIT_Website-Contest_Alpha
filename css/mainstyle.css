@@ -210,7 +210,7 @@ label,toggle{
 		display: inline-block;
 	}
 	.left,.center,.right h2{
-		width: 10%;
+		text-align: left;
 	}
 }
 /* history */
