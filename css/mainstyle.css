@@ -162,11 +162,11 @@ label,toggle{
 	padding: 1% 0 2% 0;
 }
 .ach ul{
-	margin-left: 15%;
 }
 .ach li{
 	color: #000000;
         width:50%;
+	margin-left: 15%;
 }
 .right a{
 	text-decoration: none;
