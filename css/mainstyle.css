@@ -202,9 +202,9 @@ label,toggle{
 		font-size: 50%;
 		margin-left: 0;
 	}
-.footer .main{
-	display: block;
-}
+	.footer .main{
+		display: block;
+	}
 }
 /* history */
 .hist{
