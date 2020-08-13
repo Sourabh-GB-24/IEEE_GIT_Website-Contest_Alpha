@@ -67,7 +67,7 @@ p{
 	margin-bottom:0.5%;
 	padding-left : 27%;
 }
-.events ul li a{
+.events a{
 	color: #000000;
 	text-decoration: none;
 }
@@ -208,9 +208,6 @@ label,toggle{
 	}
 	.footer .main{
 		display: inline-block;
-	}
-	.left,.center,.right h2{
-		text-align: left;
 	}
 }
 /* history */
