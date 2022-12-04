@@ -55,7 +55,7 @@ p{
 	font-family: Serif;
 }
 .events{
-	background: #808080 url("images/event.jpeg") no-repeat center contain;
+	background: #808080 url("images/event.jpeg") center contain;
 	background-size: 100%;
 	padding: 1% 0 7% 0;
 }
