@@ -156,7 +156,7 @@ label,toggle{
 	width: 40px;
 }
 .ach{
-	background: #808080 //url("images/ach.jpeg") no-repeat center;
+	background: #808080 ;
 	background-size: 100% 100%;
 	background: cover;
 	padding: 1% 0 2% 0;
